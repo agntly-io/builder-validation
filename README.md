@@ -12,6 +12,7 @@
 [![API Docs](https://img.shields.io/badge/API_Docs-docs-blue?style=flat-square)](https://agntly.io/docs)
 [![Chain](https://img.shields.io/badge/Chain-Base_L2-0052FF?style=flat-square)](https://base.org)
 [![Settlement](https://img.shields.io/badge/Settlement-USDC-2775CA?style=flat-square)](https://www.circle.com/usdc)
+[![Follow on X](https://img.shields.io/badge/Follow-@agntly-000000?style=flat-square&logo=x)](https://x.com/agntly)
 
 ---
 
@@ -224,6 +225,7 @@ print(f"Task: {task['data']['id']}, Status: {task['data']['status']}")
 - **Feature requests:** [Open an issue](https://github.com/agntly-io/builder-validation/issues/new?template=feature.md)
 - **Questions:** [Start a discussion](https://github.com/agntly-io/builder-validation/discussions)
 - **Email:** support@agntly.io
+- **Follow us:** [@agntly on X](https://x.com/agntly)
 
 ---
 
