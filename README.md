@@ -1,6 +1,8 @@
 <div align="center">
 
-# ● AGNTLY
+<img src="logo.png" width="80" height="80" alt="Agntly" />
+
+# AGNTLY
 
 ### The Payment Layer for AI Agents
 
